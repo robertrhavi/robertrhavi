@@ -15,23 +15,19 @@ Backend developer focused on **APIs, data processing, geospatial analysis, and c
 ### Ferramentas
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
 
 ### Áreas de interesse
 
 [![Backend](https://img.shields.io/badge/Backend%20Development-222222?style=for-the-badge&logo=serverfault&logoColor=white)](#)
-[![Data Science](https://img.shields.io/badge/Data%20Science-013243?style=for-the-badge&logo=databricks&logoColor=white)](#)
-[![Geospatial](https://img.shields.io/badge/Geospatial-2E7D32?style=for-the-badge&logo=openstreetmap&logoColor=white)](#)
 [![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-F7DF1E?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/)
-[![Algorithms](https://img.shields.io/badge/Algorithms-5C2D91?style=for-the-badge&logo=thealgorithms&logoColor=white)](#)
+
 
 ### Contato
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/users/SEU_ID](https://discord.com/users/1059417643389571102))
-
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1059417643389571102)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/robert_ofcb_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhavi69@gmail.com)
