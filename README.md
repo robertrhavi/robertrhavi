@@ -38,15 +38,6 @@ I primarily design backend services with Python and FastAPI, processing complex 
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertrhavi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertrhavi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ## Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1059417643389571102)
